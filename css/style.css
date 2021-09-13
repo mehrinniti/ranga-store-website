@@ -60,6 +60,16 @@ body {
 .cart-main {
   padding-right: 30px;
 }
+.fa-star{
+  font-size: 12px;
+}
+.filled{
+  color: #FFC014;
+}
+.emty{
+  color: #AEAEAE;
+  opacity: 0.25;
+}
 @media only screen and (max-width: 768px) {
   #all-products {
     display: grid;
